@@ -1,5 +1,6 @@
 ## Building GIS Applications
 Repo contains gis applications built with open source tools
+- [5 open source tools for building a map app in a snap](https://opensource.com/article/18/5/how-build-your-first-gis-app)
 
 ### Further Reading
 - [20 ways GIS Data is used in Business and Everyday Life](https://nobelsystemsblog.com/gis-data-business/)
