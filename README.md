@@ -1,6 +1,9 @@
 ## Building GIS Applications
 Repo contains gis applications built with open source tools
 - [5 open source tools for building a map app in a snap](https://opensource.com/article/18/5/how-build-your-first-gis-app)
+- [How to georeference a construction site map-tutorial](https://medium.com/the-pointscene-diaries/tutorial-qgis-georeference-24ea613a160d)
+- [New QGIS and 3D visualisation](https://medium.com/the-pointscene-diaries/3d-map-qgis-guide-4688975b8fb4)
+- [Creating 3D map in QGIS](https://medium.com/the-pointscene-diaries/creating-3d-map-in-qgis-690f3d40beb1)
 
 ### Further Reading
 - [20 ways GIS Data is used in Business and Everyday Life](https://nobelsystemsblog.com/gis-data-business/)
