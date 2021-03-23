@@ -11,3 +11,4 @@ Repo contains gis applications built with open source tools
 - [Open Source Imagery Processing](https://www.gislounge.com/open-source-imagery-processing/)
 - [1000 GIS Applications & Uses – How GIS Is Changing the World](https://gisgeography.com/gis-applications-uses/)
 - [5 Types of Network Analysis in GIS](https://gisgeography.com/network-analysis/)
+- [Cool examples from the U.S. Vessel Traffic application from Living Atlas](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/cool-examples-from-the-u-s-vessel-traffic-application-from-living-atlas/)
